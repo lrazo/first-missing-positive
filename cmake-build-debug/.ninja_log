@@ -1,0 +1,5 @@
+# ninja log v5
+1	331	7331671047336044	build.ninja	865a2f2b434b3923
+12	596	7331665474714636	CMakeFiles/first_missing_positive.dir/Solution.cpp.obj	ba13c8e06add88f3
+1	1141	7331665480213729	CMakeFiles/first_missing_positive.dir/main.cpp.obj	6faebab393da2cad
+1143	1448	7331665483254799	first_missing_positive.exe	50a929ea68655d11
